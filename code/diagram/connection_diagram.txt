@@ -1,0 +1,10 @@
+NodeMCU ESP8266 Traffic Light Connections
+
+D1  -> 220Ω resistor -> Red LED (+)
+D2  -> 220Ω resistor -> Yellow LED (+)
+D5  -> 220Ω resistor -> Blue LED (+)
+
+All LED (-) legs -> GND rail
+GND rail -> NodeMCU G
+
+Power via USB
